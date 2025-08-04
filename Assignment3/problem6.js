@@ -1,6 +1,6 @@
 /** Problem 06 :  (Current Salary )  */
-var experience = 30;
-var startingSalary = 45000;
+var experience = 3;
+var startingSalary = 15000;
 //write your code here
 
 var presentSalary=startingSalary*(1+0.05)**experience;
